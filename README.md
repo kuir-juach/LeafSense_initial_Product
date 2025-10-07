@@ -25,6 +25,9 @@ LeafSense addresses these challenges by providing:
 - **User-friendly interface** accessible to all literacy levels
 
 ## GitHub Repository
+Here is the link to the GitHub https://github.com/kuir-juach/LeafSense_initial_Product/tree/master 
+## Link to the Video
+Here is the link to the demo video 
 
 
 ## Environment Setup & Installation

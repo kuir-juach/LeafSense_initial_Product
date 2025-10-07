@@ -80,7 +80,7 @@ dependencies:
 #### Onboarding Screens
 <div align="center">
   <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20193835.png?raw=true"/>
-  <img src="screenshots/onboarding_2.png" width="250" alt="Features Screen"/>
+  <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20193852.png?raw=true" width="250" alt="Features Screen"/>
 </div>
 
 #### Main Application

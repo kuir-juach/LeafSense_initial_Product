@@ -27,7 +27,7 @@ LeafSense addresses these challenges by providing:
 ## GitHub Repository
 Here is the link to the GitHub https://github.com/kuir-juach/LeafSense_initial_Product/tree/master 
 ## Link to the Video
-Here is the link to the demo video https://drive.google.com/drive/folders/1yej7xnzQ_BjDsN1_GlTFvqjSQRCrx1JY?usp=sharing
+Here is the link to the demo video https://drive.google.com/file/d/1Ydq_jIUuihtkBf2tuLK7yAuojGcctD3Z/view?usp=sharing
 
 
 ## Environment Setup & Installation

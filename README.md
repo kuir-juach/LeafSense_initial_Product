@@ -86,16 +86,14 @@ dependencies:
 #### Main Application
 <div align="center">
   <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20193911.png?raw=true" width="250" alt="Home Screen"/>
-  <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20200241.png?raw=true" width="250" alt="Prediction Results"/>
+  <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20195231.png?raw=true" width="250" alt="Prediction Results"/>
   <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20200204.png?raw=true" width="250" alt="History Screen"/>
 </div>
 
 #### Settings & Accessibility
 <div align="center">
   <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20194629.png?raw=true" width="250" alt="Settings Screen"/>
-  <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20200241.png?raw=true
-
-" width="250" alt="Arabic Interface"/>
+  <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20200241.png?raw=true" width="250" alt="Arabic Interface"/>
 </div>
 
 ### Design System

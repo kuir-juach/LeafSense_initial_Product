@@ -96,6 +96,42 @@ dependencies:
   <img src="https://github.com/kuir-juach/LeafSense_initial_Product/blob/master/Screenshot%202025-10-07%20200241.png?raw=true" width="250" alt="Arabic Interface"/>
 </div>
 
+#### Machine Learning Overview
+LeafSense integrates a deep learning model designed to identify South Sudanese medicinal plants based on leaf images accurately. The model was trained using Convolutional Neural Networks (CNNs), optimized for mobile and offline performance through TensorFlow Lite conversion.
+
+#### Model Architecture
+#### The baseline model consists of:
+-	Convolutional Layers (3 blocks): Extracts unique leaf texture and shape patterns
+-	Batch Normalization: Improves stability and accelerates convergence
+-	MaxPooling Layers: Reduce spatial dimensions and computation cost
+-	Dropout Layer (0.4): Prevents overfitting
+-	Dense Layers: Performs high-level feature interpretation
+-	Softmax Output: Classifies the image into one of the known medicinal plant categories
+  #### Training Configuration
+-	Framework: TensorFlow / Keras
+-	Optimizer: Adam (learning rate = 0.001)
+-	Loss Function: Categorical Cross-Entropy
+-	Metrics: Accuracy
+-	Image Size: 224×224 pixels
+-	Batch Size: 32
+- Epochs: Configurable (commonly 30–50 depending on dataset)
+  #### Dataset
+- Source: Collected and labeled dataset of South Sudanese medicinal plants
+- Structure:
+- 70% Training
+- 20% Validation
+- 10% Testing
+#### 	Preprocessing: Image rescaling, random rotation, flipping, zooming, and shifting for augmentation
+#### Model Deployment
+- The trained CNN was converted to TensorFlow Lite (.tflite) format for mobile compatibility.
+- The model runs entirely offline, enabling users in remote areas to identify plants without internet access.
+- Inference time is optimized to deliver results in under 2 seconds on mid-range smartphones.
+  #### Performance Highlights
+- High Accuracy in recognizing locally available medicinal plants
+- Lightweight & Efficient for low-resource devices
+- Explainable Predictions through top-3 class probability display
+
+
 ### Design System
 
 #### Color Palette
@@ -134,25 +170,8 @@ dependencies:
 - **Permissions**: Camera access only when needed
 
 
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ## 📞 Contact
 
 **Contributor**
 - Email: k.thuch@alustudent.com
 - Name: Kuir Thuch
-
-
----
-
-<div align="center">
-  <strong>🌿 Preserving Heritage, Empowering Communities 🌿</strong>
-  <br>
-  <em>Bridging Traditional Wisdom with Modern Technology</em>
-</div>

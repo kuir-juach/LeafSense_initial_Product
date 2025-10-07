@@ -1,0 +1,20 @@
+{
+  "Azadirachta_indica": {
+    "name_en": "Neem Tree",
+    "name_ar": "شجرة النيم",
+    "desc_en": "Neem is a medicinal tree known for its antibacterial, antifungal, and anti-inflammatory properties. It's commonly used to treat skin conditions, boost immunity, and as a natural pesticide.",
+    "desc_ar": "النيم شجرة طبية معروفة بخصائصها المضادة للبكتيريا والفطريات والالتهابات. تستخدم عادة لعلاج الأمراض الجلدية وتعزيز المناعة وكمبيد طبيعي."
+  },
+  "Aloe_vera": {
+    "name_en": "Aloe Vera",
+    "name_ar": "الصبار",
+    "desc_en": "Aloe vera is a succulent plant known for its healing gel. It's widely used for treating burns, wounds, and skin irritations. It also has moisturizing and anti-inflammatory properties.",
+    "desc_ar": "الصبار نبات عصاري معروف بجل الشفاء الخاص به. يستخدم على نطاق واسع لعلاج الحروق والجروح وتهيج الجلد. كما أن له خصائص مرطبة ومضادة للالتهابات."
+  },
+  "Ocimum_basilicum": {
+    "name_en": "Holy Basil",
+    "name_ar": "الريحان المقدس",
+    "desc_en": "Holy basil is an aromatic herb with powerful medicinal properties. It's used to reduce stress, boost immunity, treat respiratory conditions, and regulate blood sugar levels.",
+    "desc_ar": "الريحان المقدس عشب عطري له خصائص طبية قوية. يستخدم لتقليل التوتر وتعزيز المناعة وعلاج أمراض الجهاز التنفسي وتنظيم مستويات السكر في الدم."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Azadirachta_indica": {
+    "name_ar": "نيم (Azadirachta indica)",
+    "desc_ar": "نيم: يستخدم لعلاج الحمى والالتهابات. طريقة التحضير: غلي الأوراق لصنع شاي."
+  },
+  "Tamarindus_indica": {
+    "name_ar": "تاماريند (Tamarindus indica)",
+    "desc_ar": "تاماريند: يستخدم للهضم وبعض الحالات الأخرى. طريقة التحضير:..."
+  },
+  "Ocimum_gratissimum": {
+    "name_ar": "ريحان بري (Ocimum gratissimum)",
+    "desc_ar": "ريحان بري: يستخدم للصداع وطرد البعوض. التحضير:..."
+  }
+}
